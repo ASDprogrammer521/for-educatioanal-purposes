@@ -1,0 +1,2 @@
+# for-educatioanal-purposes
+msfconsole
